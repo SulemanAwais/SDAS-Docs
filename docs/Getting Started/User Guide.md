@@ -1,0 +1,1 @@
+The detailed guide to use SDAS can be found [here](https://docs.google.com/document/d/1Zh-f0-SgXBGyhpUljLCnjtpcN-CTDS3Fc3uCKq9pf4k/edit?usp=sharing)
